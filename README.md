@@ -16,7 +16,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img src="http://www.w3.org/2000/svg"height="30 alt="java logo" />
+  <img src="https://raw.githubusercontent.com/jmnote/z-icons/5dca329190fa53931f4cdab984acc668e149d3e5/svg/java.svg"height="30 alt="java logo" />
   <img width="12" />
 </div>
 
