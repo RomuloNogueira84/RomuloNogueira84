@@ -1,10 +1,28 @@
-<h2 align="left">Olá meu nome é Romulo Nogueira e sou desenvolvedor front end - PCD e estou me formando em Análise e desenvolvimento de sistemas.</h2>
+<h2 align="left">Olá, meu nome é Romulo Nogueira!</h2>
+<h3 align="left">Desenvolvedor Front End - PCD | Futuro Full Stack Developer</h3>
 
-###
+## Sobre Mim
+<p align="left">
+Sou Romulo Nogueira de Souza, apaixonado por tecnologia e desenvolvimento. Atualmente, estou me formando em Análise e Desenvolvimento de Sistemas pela Universidade Estácio de Sá e expandindo minhas habilidades em diversas frentes:
+</p>
 
-<p align="left">Sobre mim:<br>"Olá, sou Romulo Nogueira de Souza, e estou embarcando em uma jornada empolgante de desenvolvimento na área de tecnologia.<br><br> Atualmente, estou cursando CST em Análise e Desenvolvimento de Sistemas na Universidade Estácio de Sá, onde estou adquirindo conhecimentos sólidos em programação e sistemas.<br><br>Além disso, conclui meu Bootcamp em Front-End pela Soul Code Academy, onde adquiri habilidades essenciais em HTML, CSS e JavaScript,<br><br> permitindo-me criar interfaces web atraentes e interativas.<br>Antes disso, minha carreira foi voltada para a Segurança do Trabalho, onde superei desafios de saúde significativos.<br><br> Isso me motivou a explorar um novo futuro na programação.<br>Estou aberto a oportunidades emocionantes que me permitem aplicar meu conhecimento técnico e habilidades em projetos desafiadores.<br><br> Se você procura um desenvolvedor comprometido com aprendizagem contínua e soluções criativas, estou à disposição para colaborar.<br><br>Vamos criar um futuro de inovação juntos!"</p>
+- **Formação Full Stack** pela Devstars
+- Cursos de **Java** na Digital Innovation One (DIO)
+- Participante do programa **ONE Oracle Next Education** focado em back end com Java
+- Curso de formação completo em **Java** na Udemy
 
-###
+<p align="left">
+Anteriormente, concluí meu Bootcamp em Front-End pela Soul Code Academy, onde desenvolvi habilidades em HTML, CSS e JavaScript, permitindo-me criar interfaces web dinâmicas e responsivas. Minha jornada começou na Segurança do Trabalho, mas foi a programação que me cativou e me levou a buscar um novo caminho profissional.
+</p>
+
+<p align="left">
+Estou sempre em busca de novos desafios e oportunidades para aplicar meu conhecimento técnico em projetos inovadores. Se você está procurando um desenvolvedor dedicado e criativo, vamos conversar e construir um futuro de inovação juntos!
+</p>
+
+## Contato
+- **LinkedIn:** [SeuPerfil](https://www.linkedin.com/in/romulo-nogueira-605594185/)
+- **E-mail:** romulonogueira929@gmail.com
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
