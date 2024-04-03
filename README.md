@@ -39,7 +39,7 @@
 
 ###
 
-<img align="right" height="150" src="https://ibb.co/LRhNS2w"/>
+<img align="right" height="150" src="https://romuloportifolio.vercel.app/assets/imagem.jpg"/>
 
 ###
 <br>
