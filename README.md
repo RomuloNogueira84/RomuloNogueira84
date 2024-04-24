@@ -1,5 +1,5 @@
 <h2 align="left">Olá, meu nome é Romulo Nogueira!</h2>
-<h3 align="left">Desenvolvedor Front End - PCD | Futuro Full Stack Developer</h3>
+<h3 align="left">Estudante Universitário em Análise e Desenvolvimento de Sistemas | Desenvolvedor Front-End React | Estudante de Desenvolvimento Full Stack Java & DBA MySQL | Aprendendo Full Stack C# | PCD</h3>
 
 ## Sobre Mim
 <p align="left">
