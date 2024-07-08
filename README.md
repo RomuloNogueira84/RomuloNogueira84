@@ -6,9 +6,10 @@
 Sou Romulo Nogueira de Souza, apaixonado por tecnologia e desenvolvimento. Atualmente, estou me formando em Análise e Desenvolvimento de Sistemas pela Universidade Estácio de Sá e expandindo minhas habilidades em diversas frentes:
 </p>
 
-- **Formação Full Stack** pela Devstars
+- **Formação Full Stack**
 - Cursos de **Java** na Digital Innovation One (DIO)
-- Participante do programa **ONE Oracle Next Education** focado em back end com Java
+- Formação **Full Stack Java** na Soul Code Academy em parceria com a Sankhya 
+- Conclui do programa **ONE Oracle Next Education** focado em back end com Java na **Alura**
 - Curso de formação completo em **Java** na Udemy
 
 <p align="left">
