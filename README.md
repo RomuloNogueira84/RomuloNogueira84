@@ -8,7 +8,7 @@ Sou Romulo Nogueira de Souza, apaixonado por tecnologia e desenvolvimento. Atual
 
 - **Formação Full Stack**
 - Cursos de **Java** na Digital Innovation One (DIO)
-- Formação **Full Stack Java** na Soul Code Academy em parceria com a Sankhya 
+- Formação **Full Stack Java** na Soul Code Academy em parceria com a **Sankhya**
 - Conclui do programa **ONE Oracle Next Education** focado em back end com Java na **Alura**
 - Curso de formação completo em **Java** na Udemy
 
