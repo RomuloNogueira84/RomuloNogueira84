@@ -2,9 +2,9 @@
 
 <div align="center">
 
-🎨 **UI/UX Designer & Front-End Developer**  
-💻 Estudante de Engenharia de Software  
-📐 Interfaces, Design Systems e Web Moderna
+💻 **Desenvolvedor de Software em formação**  
+🎓 Estudante de Engenharia de Software  
+☕ Backend • Java • APIs • Boas práticas
 
 </div>
 
@@ -12,80 +12,70 @@
 
 ## 🚀 Sobre mim
 
-Sou **desenvolvedor front-end com foco em UI/UX**, unindo **design de interfaces** e **engenharia de front-end** para criar experiências digitais claras, funcionais e bem estruturadas.
+Sou **Desenvolvedor de Software em formação**, estudante de **Engenharia de Software**, com foco em **desenvolvimento backend**, construção de **APIs**, lógica de negócios e boas práticas de código.
 
-Atualmente estou em formação contínua pela **Origamid**, com base sólida em **HTML, CSS, JavaScript, React, UI Design e UX**, além de experiências complementares pela **Alura, DevMedia** e **Bootcamp Front-End da SoulCode (Grupo Petrópolis & Eletromidia)**.
+Tenho experiência prática adquirida em **estágio na área de tecnologia**, além de formação complementar em plataformas como **Alura, DIO, DevMedia e SoulCode**, trabalhando com **Java, Spring Boot, Git, SQL e fundamentos de cloud**.
 
-Acredito que **design não é estética isolada** — é **projeto, método e decisão** aplicada diretamente no código.
+Minha trajetória profissional anterior como **Técnico em Segurança do Trabalho** contribuiu para o desenvolvimento de habilidades como **responsabilidade, organização, comunicação clara e análise de riscos**, que hoje aplico diretamente no desenvolvimento de software.
+
+Sou **PCD**, resiliente e em constante evolução, buscando oportunidades para crescer como desenvolvedor e contribuir com soluções bem estruturadas, eficientes e sustentáveis.
 
 ---
 
 ## 🧠 Áreas de foco
 
-- UI Design aplicado ao Front-End  
-- UX heurísticas e usabilidade  
-- Layouts modernos e responsivos  
-- Tipografia para interfaces digitais  
-- Componentização e arquitetura de front-end  
-- Interfaces acessíveis e escaláveis  
+- Desenvolvimento Backend com Java  
+- Construção de APIs REST  
+- Orientação a Objetos e boas práticas  
+- Persistência de dados e SQL  
+- Versionamento de código com Git  
+- Arquitetura básica de aplicações  
 
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
 
-### 🎨 UI / UX
-![UI Design](https://img.shields.io/badge/UI%20Design-000000?style=for-the-badge)
-![UX](https://img.shields.io/badge/UX-333333?style=for-the-badge)
-![Tipografia](https://img.shields.io/badge/Tipografia-555555?style=for-the-badge)
+### ☕ Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql)
 
-### 🌐 Front-End
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+### 🌐 Web (base)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js)
 
-### 🎨 CSS & Layout
-![CSS Grid](https://img.shields.io/badge/CSS%20Grid-1572B6?style=for-the-badge)
-![Flexbox](https://img.shields.io/badge/Flexbox-1572B6?style=for-the-badge)
-![Tailwind](https://img.shields.io/badge/Tailwind-38BDF8?style=for-the-badge&logo=tailwindcss)
-![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap)
-
-### ⚙️ Outros
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+### ⚙️ Ferramentas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
 
 ---
 
 ## 📂 Projetos em destaque
 
-🔹 **Interfaces Responsivas com CSS Grid & Flexbox**  
-Layouts modernos focados em estrutura, espaçamento, hierarquia visual e responsividade.
+🔹 **APIs REST com Java e Spring Boot**  
+Desenvolvimento de APIs com organização em camadas, boas práticas e integração com banco de dados.
 
-🔹 **UI Design aplicado ao Front-End**  
-Projetos onde o design guia o código, com atenção a tipografia, contraste e usabilidade.
+🔹 **Projetos práticos em Java (OO)**  
+Aplicações focadas em orientação a objetos, regras de negócio e tratamento de exceções.
 
-🔹 **Aplicações React & Next.js**  
-Componentização, estado, organização de pastas e foco em experiência do usuário.
+🔹 **Projetos Web de apoio**  
+HTML, CSS e JavaScript utilizados como base para integração com backend.
 
-*(Veja os repositórios fixados abaixo 👇)*
+*(Confira os repositórios fixados abaixo 👇)*
 
 ---
 
 ## 📚 Aprendizado contínuo
 
 Atualmente aprofundando estudos em:
-- UI Design Avançado  
-- UX Heurísticas  
-- Tipografia para Interfaces  
-- Arquitetura de aplicações Front-End  
-- Performance e boas práticas de código  
+- Spring Boot e ecossistema Java  
+- Arquitetura de software  
+- APIs e integração de sistemas  
+- Cloud e containerização  
+- Boas práticas e clean code  
 
 ---
 
@@ -105,6 +95,6 @@ Atualmente aprofundando estudos em:
 
 <div align="center">
 
-✨ *Design é projeto. Código é consequência.* ✨
+✨ *Código bem escrito resolve problemas reais.* ✨
 
 </div>
